@@ -1,0 +1,20 @@
+
+body {
+    background-color: #d9b0df;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: rgb(110, 12, 117);
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p {
+    color: rgb(188, 83, 190);
+    font-size: 24px;
+    line-height: 1.6;
+}
